@@ -4,6 +4,10 @@
 // entry.png. This program simply copies it to the output directory
 // named by MAKEFUN_OUTPUT_DIR, so both grader runs produce identical
 // bytes with no network access and no randomness.
+//
+// Determinism: the output is a verbatim byte-for-byte copy of entry.png,
+// so any two runs produce identical bytes (same sha256). No network,
+// no randomness, no timestamps are involved in the copy.
 
 import { copyFileSync, mkdirSync } from "node:fs";
 import { dirname, join } from "node:path";

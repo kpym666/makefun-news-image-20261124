@@ -12,32 +12,40 @@ in a single image.
 
 ## What the image shows
 
-The banner names the day — **24 November 2026** — above a five-panel
-illustration, with five stories listed below it:
+The banner names the day — **24 November 2026** — above six illustrated
+panels, one per story. The v2 final edition replaces the v1 morning
+edition: every story below happened, or was first reported, on
+24 November 2026 itself (full day, all time zones).
 
-1. **NVIDIA brings back Huang** — Nvidia's board reinstated Jensen Huang
-   as president and CEO, 11 days after he resigned; shares jumped about
-   31%. (Nvidia newsroom, 23 Nov 2026; Reuters; The Hindu BusinessLine,
-   24 Nov 2026)
-2. **Trump halts Iowa blast** — President Trump ordered the US Army to
-   pause its plan to detonate unstable lead-azide explosives at the Iowa
-   Army Ammunition Plant. (CNN, 23 Nov 2026)
-3. **Iran vows to defy blockade** — Iran said it would use every means to
-   counter the US naval blockade of the Strait of Hormuz, after Trump
-   warned Iranian ships testing it would be sunk. (Reuters, 23 Nov 2026)
-4. **Nuclear satellite alarm** — Western intelligence, reported by German
-   media, warned Russia may launch a nuclear-armed satellite ("Sputnik-S")
-   within weeks; NATO said its defence pledge covers space. (Reuters /
-   NDR–WDR–Süddeutsche Zeitung, 23 Nov 2026)
-5. **UK to host 2035 World Cup** — FIFA confirmed England, Northern
-   Ireland, Scotland and Wales as hosts of the 2035 Women's World Cup,
-   and a US-led bid for the 2031 edition. (Reuters / FIFA, 23 Nov 2026)
+1. **Huawei found guilty** — A US federal jury in Brooklyn convicted
+   Huawei on 10 of 12 counts, including bank fraud, wire fraud,
+   sanctions violations and conspiracy to steal trade secrets; it
+   acquitted Huawei of racketeering conspiracy. (Reuters, CNN, US Dept.
+   of Justice, 24 Nov 2026)
+2. **Tankers hit in Hormuz** — Iran reported four tankers struck naval
+   mines in the Strait of Hormuz, and the IRGC said its navy attacked a
+   container ship in the strait. (Daily Summary Of / Reuters, 24 Nov 2026)
+3. **Ukraine hits Russian ships** — Kyiv confirmed drone strikes on the
+   Russian cargo ship Sparta II in the Gulf of Finland and on a Russian
+   corvette and cargo ship off Libya; Poland accused Russia of a new
+   deliberate airspace violation. (Reuters, Daily Summary Of, 24 Nov 2026)
+4. **Houthis close on Aden** — Yemen's military said Houthi fighters were
+   about 60 km from Aden and ready to attack; a suspected Houthi drone
+   strike hit the Saudi PIF tower in Riyadh, wounding 11 people.
+   (Reuters, Daily Summary Of, 24 Nov 2026)
+5. **Shenzhou-24 lifts off** — China launched Shenzhou-24 carrying
+   Pakistan's first astronaut, Muhammad Zeeshan Ali — the first foreign
+   visitor to the Tiangong space station. (Reuters, SpacePolicyOnline,
+   24 Nov 2026; launch 19:18 EST 24 Nov)
+6. **Senegal gets title back** — The Court of Arbitration for Sport
+   upheld Senegal's appeal and restored its Africa Cup of Nations title,
+   overturning the CAF ruling that had given the title to Morocco.
+   (Reuters, AP, 24 Nov 2026)
 
-Stories were selected from reporting published on 24 November 2026 in
-Asian time zones (or on 23 November in the Americas, i.e. 24 November in
-Asia/Australasia). The image was drawn for this entry and the text was
-added with Python (PIL); no stock photos or other entries' artwork were
-used.
+The six panels are one AI-generated illustration grid (no text in the
+generated art); the date banner, headlines and captions were added with
+Python (PIL) so all text is sharp. No stock photos, no other entries'
+artwork, and nothing copied from the v1 image were used.
 
 ## How it works
 
